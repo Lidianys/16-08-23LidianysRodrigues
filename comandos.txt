@@ -1,0 +1,47 @@
+356  cd 16-08-23LidianysRodriguez/
+  357  git init
+  358  touch main.js index.html
+  359  git commit -m "commit 01 de Lidianys Rodriguez"
+  360  git add .
+  361  git commit -m "commit 01 de Lidianys Rodriguez"
+  362  git remote add origin https://github.com/Lidianys/16-08-23LidianysRodrigues.git
+  363  git push -u origin main
+  364  git remote add origin https://github.com/Lidianys/16-08-23LidianysRodrigues.git
+  365  git branch -M main
+  366  git push -u origin main
+  367  git branch feature
+  368  git checkout feature
+  369  mkdir Hardware Software SeguridadInformatica
+  370  ls
+  371  cd Hardware/
+  372  touch resumen.txt
+  373  cd ..
+  374  ls
+  375  cd SeguridadInformatica/
+  376  touch resumen.txt
+  377  cd ../Software
+  378  touch resumen.txt
+  379  cd ..
+  380  git add .
+  381  git commit -m "commit 02 de Lidianys Rodriguez"
+  382  git push
+  383      git push --set-upstream origin feature
+  384  git checkout master
+  385  git branch
+  386  git checkout master
+  387  git checkout master
+  388  git status
+  389  git checkout origin/master
+  390  git remote
+  391  git pull
+  392  git fetch
+  393  git checkout master
+  394  git checkout main
+  395  mv main.js resumenHardware.txt
+  396  ls
+  397  mv index.html resumenSoftware.txt
+  398  ls
+  399  code .
+  400  touch comandos.txt
+  401  history
+  402  history 47
